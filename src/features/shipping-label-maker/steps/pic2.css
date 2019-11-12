@@ -1,0 +1,61 @@
+
+.step-prev-next {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 50px;
+}
+.btn{
+    width: 120px;
+    margin-right: 20px;
+    border:3px solid rgb(21, 146, 94);
+    background-color:lightgray;
+    text-align:center;
+    text-decoration:none;
+    padding:10px 12px;
+    font-size:15px;
+    border-radius:5px;
+  }
+.formg{
+  margin-top:20px;
+  padding:40px;
+  font-size:12px;
+  width:80px;
+  height:40px;
+}
+  .header{
+    margin-top:20px;
+    font-size:20px;
+  }
+
+  .headd{
+    width:80px;
+    height:20px;
+  }
+  .col-11{
+    margin-bottom:15px;
+  }
+.col-32{
+  height:10px;
+  width:20px;
+  padding:4px;
+}
+.erow {
+  border:3px solid rgb(40, 167, 108);
+  font-size:15px;
+  padding:5px;
+  width:400px;
+  height:20px;
+
+
+
+
+}
+
+   
+   .step-container .header {
+      margin-bottom: 20px;
+    }
+  
+
+
